@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://everxcloud.ai/?utm_source=github&utm_medium=readme&utm_campaign=brand">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/everxcloud-logo-on-dark.svg">
+      <img src="assets/brand/everxcloud-logo-on-light.svg" alt="EverXCloud: Every GPU. One provider." width="420">
+    </picture>
+  </a>
+</p>
+
 # GPU VRAM calculator for LLMs
 
 Estimate how much GPU memory a large language model needs for inference, and which GPUs can hold it alone or in 2, 4 or 8 cards. One dependency-free Python file, MIT licensed.
