@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://everxcloud.ai/?utm_source=github&utm_medium=readme&utm_campaign=brand">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/everxcloud-logo-on-dark.svg">
-      <img src="assets/brand/everxcloud-logo-on-light.svg" alt="EverXCloud: Every GPU. One provider." width="420">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/everxcloud-logo-on-dark.png">
+      <img src="assets/brand/everxcloud-logo-on-light.png" alt="EverXCloud: Every GPU. One provider." width="420">
     </picture>
   </a>
 </p>
